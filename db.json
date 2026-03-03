@@ -1,0 +1,11 @@
+{
+  "sys": [],
+  "bypass": [],
+  "config": {
+    "roleAddLimit1h": 5
+  },
+  "roleLimits": {
+    "1478512541792600195": 0
+  },
+  "logsChannel": null
+}
